@@ -24,7 +24,7 @@ def main():
     tasks = load_tasks()
 
     while True:
-        print("\n===== TO-DO LIST =====")
+        print("\n  TO-DO LIST:  ")
         print("1. Show Tasks")
         print("2. Add Task")
         print("3. Delete Task")
